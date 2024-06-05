@@ -1,0 +1,6 @@
+SQL/docker/.env
+SQL/.ipynb_checkpoints/
+SQL/django/imdb/__pycache__/
+SQL/django/lsst/__pycache__/
+MongoDB/.ipynb_checkpoints/
+MongoDB/docker/docker-compose.yml
